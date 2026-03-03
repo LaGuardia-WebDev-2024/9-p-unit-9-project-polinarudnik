@@ -17,7 +17,7 @@ draw = function(){
   
   if (answer == 1) {
     text("bad", 190, 200); 
-    text("idea", 185, 229);
+    text("idea 👎", 185, 229);
   }
   //answer is for sure
   if (answer == 2) {
